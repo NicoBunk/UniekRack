@@ -1,0 +1,33 @@
+{
+  "slug": "Uniek",
+  "name": "Uniek",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "brand": "Uniek",
+  "author": "Nico Bunk",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Steve",
+      "name": "Steve",
+      "description": "",
+      "tags": [
+        "Sequencer"
+      ]
+    },
+    {
+      "slug": "Io",
+      "name": "Io",
+      "description": "",
+      "tags": [
+        "Switch"
+      ]
+    }
+  ]
+}
