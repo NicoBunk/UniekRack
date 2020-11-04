@@ -46,6 +46,8 @@ struct Steve : Module
 
 	dsp::ClockDivider lightDivider;
 
+
+
 	Steve()
 	{
 		config(NUM_PARAMS, NUM_INPUTS, NUM_OUTPUTS, NUM_LIGHTS);
